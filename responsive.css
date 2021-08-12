@@ -43,4 +43,8 @@
     font-size: 14px;
     line-height: 20px;
   }
+  
+  .footer-logo {
+	display:none;
+  }
 }
