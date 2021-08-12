@@ -44,7 +44,7 @@
     line-height: 20px;
   }
   
-  .footer-logo {
+  .footer-logo a {
 	display:none;
   }
 }
