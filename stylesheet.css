@@ -139,11 +139,11 @@ header {
 }
 
 .menu-icon{
+  display: none;
   color: white;
   float: right;
   font-size: 25px;
-  padding: 21px 0;
-  display: none;
+  padding: 25px 0;
 }
 
 .lesson-wrapper {  
