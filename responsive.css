@@ -30,6 +30,10 @@
     display:none;
   }
   
+  .menu-main{
+    display:block;
+  }
+  
   .top-wrapper h1 {
     font-size: 20px;
     line-height: 36px;
