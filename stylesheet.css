@@ -142,7 +142,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.fas fa-bars{
+.menu.icon{
   color: white;
   float: right;
   font-size: 25px;
